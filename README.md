@@ -9,7 +9,7 @@ I have various hobbies such as:
 - Collecting Legos
 - Collecting sneakers
 
-  #Programming Languages
+# Programming Languages
   - Java
   - C++
   - Python
