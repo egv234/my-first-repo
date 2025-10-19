@@ -13,3 +13,6 @@ I have various hobbies such as:
   - Java
   - C++
   - Python
+
+
+![Profile Picture](cr7github.jpeg)
